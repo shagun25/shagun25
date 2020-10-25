@@ -4,7 +4,7 @@
 ## I'm a Student!
 
 - 🔭 I’m currently working on Flutter!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Want to learn everything 🤣
 - 👯 I’m looking to collaborate with others having same interest as of mine.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to do art and craft work.
