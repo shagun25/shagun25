@@ -16,7 +16,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
@@ -37,5 +37,5 @@
 
 
 [instagram]: https://www.instagram.com/__.goyal_shagun._/
-[linkedin]: https://www.linkedin.com/in/shagun-goyal-5459a8192/
-
+[linkedin]: https://www.linkedin.com/in/shagun-goyal/
+[twitter]: https://twitter.com/Shagungoyal25?s=08
