@@ -43,3 +43,5 @@
 [instagram]: https://www.instagram.com/__.goyal_shagun._/
 [linkedin]: https://www.linkedin.com/in/shagun-goyal/
 [twitter]: https://twitter.com/Shagungoyal25?s=08
+
+![Shagun's github stats](https://github-readme-stats.vercel.app/api?username=shagun25&count_private=true&show_icons=true&theme=radical)
