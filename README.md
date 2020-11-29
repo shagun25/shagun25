@@ -1,4 +1,4 @@
-### Hi there, I'm Shagun 👋
+![Hello](Hello.gif)
 
 
 ## I'm a Sophomore!
