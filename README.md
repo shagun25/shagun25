@@ -1,7 +1,7 @@
 ![Hello](Hello.gif)
 
 
-## I'm a Sophomore!
+## I'm in Pre-final year!
 
 - 🔭 I’m currently working on Flutter!
 - 🌱 Want to learn everything 🤣
