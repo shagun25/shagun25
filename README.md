@@ -4,7 +4,7 @@
 ## I'm in final year!
 
 - 🔭 I’m currently working on Java Spring Technology Framework!
-- 🌱 Want to learn,unlearn, grow, build habits.
+- 🌱 Want to learn,unlearn, grow, build productive habits.
 - 👯 I’m looking to collaborate with others having same interest as of mine.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: Game Changer!!
