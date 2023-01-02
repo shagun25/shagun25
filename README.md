@@ -1,13 +1,13 @@
 ![Hello](Hello.gif)
 
 
-## I'm in Pre-final year!
+## I'm in final year!
 
-- 🔭 I’m currently working on MEARN!
-- 🌱 Want to learn everything 🤣
+- 🔭 I’m currently working on Java Spring Technology Framework!
+- 🌱 Want to learn,unlearn, grow, build habits.
 - 👯 I’m looking to collaborate with others having same interest as of mine.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to do art and craft work.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: Game Changer!!
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shagun Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
