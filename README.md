@@ -1,7 +1,7 @@
 ![Hello](Hello.gif)
 
 
-## I'm in final year!
+## SDE2 @Walmart
 
 - 🔭 I’m currently working on Java Spring Technology Framework!
 - 🌱 Want to learn,unlearn, grow, build productive habits.
